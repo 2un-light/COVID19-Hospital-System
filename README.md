@@ -20,6 +20,17 @@
 - 참여 인원 : 1인
 - 개발 기간 : 2021.05 (1개월)
 
+## 개발 언어
+- Java
+- JSP
+- HTML/CSS
+- SQL
+
+## 개발 환경
+- Eclipse
+- My SQL, Heidi SQL
+- Apache Tomcat
+
 ## 결과 화면
 ![image](https://user-images.githubusercontent.com/82020828/222184626-ac9423ec-5a56-41df-9702-1adc1cad62f0.png)
 ![image](https://user-images.githubusercontent.com/82020828/222184666-a608b65a-b999-449e-93be-79d3db65cc79.png)
